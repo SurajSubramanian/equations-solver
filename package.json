@@ -1,5 +1,6 @@
 {
   "name": "solve-equation-using-cnn",
+  "homepage": "https://surajsubramanian.github.io/equations-solver/",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
